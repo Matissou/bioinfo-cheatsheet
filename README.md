@@ -1,0 +1,2 @@
+# bioinfo-cheatsheet
+Learning bioinformatics 
